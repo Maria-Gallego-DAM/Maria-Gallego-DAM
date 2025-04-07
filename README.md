@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi 👋
 
+## My name is Maria Gallego
+
+Welcome to my first readme. This is my first GitHub repository with it.
+This project is part os my journey into my profesional formation.
 <!--
 **Maria-Gallego-DAM/Maria-Gallego-DAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
