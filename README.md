@@ -2,19 +2,23 @@
 
 ## My name is Maria Gallego
 
+### My GitHub Project
+
 Welcome to my first readme. This is my first GitHub repository with it.
-This project is part os my journey into my profesional formation.
-<!--
-**Maria-Gallego-DAM/Maria-Gallego-DAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project is part of my **vocational training**.
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This project is about:
+
+- Learn how to create and manage repositories.
+- Practice writing clean and professional documentation.
+- Get comfortable pushing code and working with Git.
+
+### Tools
+| Tool       | Description                  |
+|------------|------------------------------|
+| Git        | Version control system       |
+| GitHub     | Repository hosting           |
+| VS Code    | Code editor                  |
+|  Java   |      Programming language            |
